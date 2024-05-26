@@ -3,9 +3,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMahdiTR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=DevMahdiTR&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMahdiTR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://profile-counter.glitch.me/DevMahdiTR/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DevMahdiTR&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevMahdiTR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMahdiTR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=false" height="140" alt="languages graph"  />
 </div>
 
 ###
@@ -73,10 +79,10 @@
 
 ###
 
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Q2dG81cjN6aXB4ZDdvenRzcGR4MHo1YWJ4N21nZDh4aXk2NnFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif"  />
+<img src="https://raw.githubusercontent.com/DevMahdiTR/DevMahdiTR/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/DevMahdiTR/DevMahdiTR/output/snake.svg" alt="Snake animation" />
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Q2dG81cjN6aXB4ZDdvenRzcGR4MHo1YWJ4N21nZDh4aXk2NnFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif"  />
 
 ###
