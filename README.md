@@ -79,6 +79,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/DevMahdiTR/DevMahdiTR/output/snake.svg" alt="Snake animation" />
 
 ###
